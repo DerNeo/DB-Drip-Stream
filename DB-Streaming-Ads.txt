@@ -1,0 +1,14 @@
+This blocklist helps Adguard admin restrict access to DragonBall Streaming and its domains.
+# Curated from sources online.
+# Last updated: 9 december 2019
+
+||ads-twitter.com^
+||anticipateplummorbid.com^
+||googlesyndication.com^
+||gstatic.com^
+||histats.com^
+||imasdk.googleapis.com^
+||outoctillerytor.com^
+||shulugoo.net^
+||voe-network.net^
+
