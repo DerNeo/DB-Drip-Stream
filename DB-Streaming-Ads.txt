@@ -10,3 +10,4 @@ This blocklist helps Adguard admin restrict access to DragonBall Streaming and i
 ||imasdk.googleapis.com^
 ||outoctillerytor.com^
 ||shulugoo.net^
+
